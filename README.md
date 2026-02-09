@@ -6,6 +6,13 @@
 点击获取数据
 绘制图表
 
+
+# 使用 UV 快速部署
+git clone https://github.com/ccleendww/py-excel-statistics
+cd py-excel-statistics
+uv sync
+uv run main.py
+
 ## ⚖️ 许可协议 (License)
 
 本项目采用 [GNU General Public License v3.0](LICENSE) 协议开源。
