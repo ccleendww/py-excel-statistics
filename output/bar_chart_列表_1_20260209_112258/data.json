@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-02-09T11:22:59.018285",
+  "method": "Bar Chart",
+  "data": {
+    "list_name": "列表 1",
+    "values": [
+      67.502627,
+      64.502003,
+      49.990453,
+      85.420719
+    ],
+    "count": 4,
+    "sum": 267.415802,
+    "average": 66.8539505
+  },
+  "datetime_format": "%Y-%m-%d %H:%M:%S"
+}

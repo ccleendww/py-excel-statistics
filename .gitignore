@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# UV 环境
+.venv/
+uv.lock
+
+# PyInstaller 打包产生的临时文件
+build/
+dist/
+*.spec
+
+# Inno Setup 产生的安装包
+dist_setup/
+
+# 编辑器配置
+.vscode/
+.cursor/
+
+logs/
+outputs/
+
+*.svg
