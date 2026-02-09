@@ -9,7 +9,7 @@
 3. 绘制图表
 
 
-# 使用 UV 快速部署
+## 使用 UV 快速部署
 ``` powershell
 
 git clone https://github.com/ccleendww/py-excel-statistics
