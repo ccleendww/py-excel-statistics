@@ -2,16 +2,22 @@
 
 使用方法:
 
-自由选择excel中的数据
-点击获取数据
-绘制图表
+1. 自由选择excel中的数据
+
+2. 点击获取数据
+
+3. 绘制图表
 
 
 # 使用 UV 快速部署
+``` powershell
+
 git clone https://github.com/ccleendww/py-excel-statistics
 cd py-excel-statistics
 uv sync
 uv run main.py
+
+```
 
 ## ⚖️ 许可协议 (License)
 
